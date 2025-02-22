@@ -1,0 +1,87 @@
+body,
+input,
+select,
+#table {
+  transition: background-color 0.5s ease, color 0.5s ease,
+    border-color 0.5s ease;
+}
+
+i {
+  font-size: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+#alg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Allow elements to wrap on smaller screens */
+}
+
+#remove {
+  color: red;
+}
+
+span {
+  cursor: pointer;
+}
+
+.mx {
+  position: absolute;
+  right: 150px;
+  width: fit-content;
+}
+
+#tablebody {
+  background-color: black;
+}
+
+select {
+  width: 90px;
+  height: 30px;
+  padding-left: 10px;
+  border-radius: 5px;
+  font-size: larger;
+  font-weight: 500;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.input-dark {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+
+.dark-mode #table {
+  background-color: black;
+  color: white;
+}
+
+.dark-mode #table th,
+.dark-mode #table td {
+  border-color: white;
+}
+
+.dark-mode input,
+.dark-mode select {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+
+.input-dark {
+  transition: background-color 0.5s ease, color 0.5s ease,
+    border-color 0.5s ease;
+}
+
+.table-dark {
+  transition: background-color 0.5s ease, color 0.5s ease,
+    border-color 0.5s ease;
+}
