@@ -4,8 +4,6 @@
 
 Tired of manual invoicing and calculations? I’ve built a dynamic Invoice Generator using HTML, CSS, JavaScript, and Bootstrap that makes creating invoices simple, efficient, and error-free. Whether you're a freelancer, small business owner, or service provider, this tool helps you generate professional invoices instantly with automated calculations.
 
-🔗 GitHub Repository: https://github.com/apt-prog
-
 ⚡ Key Features & Functionality
 📝 Dynamic Item Management – Add unlimited items with real-time price updates.
 💰 Auto Calculation of Totals – Enter quantity and price, and the system instantly updates the total.
@@ -29,7 +27,5 @@ Unlike other invoice tools, this doesn’t require any complex setup or sign-ups
 ✅ Easy to Customize – Modify styles, fields, and settings to fit your needs.
 
 I’m excited to share this project with you! 🚀 Try it out, share your thoughts, and don’t forget to ⭐ the repo if you find it useful! 😃
-
-🔗 GitHub Repository: https://github.com/apt-prog
 
 #InvoiceGenerator #JavaScript #WebDevelopment #Bootstrap #Freelancing #Billing #Efficiency 💡
